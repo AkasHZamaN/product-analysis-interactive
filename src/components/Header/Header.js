@@ -4,8 +4,8 @@ import { Link } from "react-router-dom";
 const Header = () => {
     return (
         <section>
-            <div className='text-center text-4xl font-serif font-semibold bg-slate-500 text-white py-3'>
-            <h1>Products Reviewers</h1>
+            <div className='text-center text-4xl font-mono font-semibold bg-slate-500 text-white py-8'>
+            <h1>Online Products Reviewer's</h1>
         </div>
         <nav className='text-center bg-teal-500 text-white py-3 font-semibold'>
             <Link className='mr-5' to="/">HOME</Link>
