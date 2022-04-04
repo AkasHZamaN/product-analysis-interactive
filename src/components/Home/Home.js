@@ -1,7 +1,10 @@
 import { ShoppingCartIcon } from "@heroicons/react/solid";
 import React from "react";
+import useReviews from "../../hooks/useReviews";
+import HomeReview from "../HomeReview/HomeReview";
 import laptop from "./img/laptop.png"
 const Home = () => {
+  const [reviews] = useReviews();
   return (
     <section>
       <article className="flex justify-between items-center mx-16 mt-24">
@@ -21,7 +24,12 @@ const Home = () => {
         </article>
       </article>
       <article>
-          <h1 className="text-center text-3xl font-mono mt-28 text-slate-500 font-semibold">Customer Reviews</h1>
+          <h1 className="text-right mr-16 text-2xl font-mono mt-28 text-slate-500 font-semibold mb-10">Customer Reviews</h1>
+          <article className="grid grid-cols-3 gap-4 mx-16 mb-10">
+            {
+              reviews.map(homeReview =><HomeReview key={homeReview.id} homeReview={homeReview}></HomeReview>)
+            }
+          </article>
       </article>
     </section>
   );
