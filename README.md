@@ -6,6 +6,7 @@ This project was tailwind with [Create React App](https://github.com/facebook/cr
 * Here I was created custom hooks.
 * Here I was use Destructuring.
 * Here I created own json file for reviews.
+* Here I created line chart and area chart.
 * Here I used Routes, intall tailwind css and react heroicons etc.
 
 In the project directory, you can run:
@@ -13,7 +14,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [https://online-products-reviewers.netlify.app/](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
