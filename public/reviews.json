@@ -1,35 +1,40 @@
 [
     {
         "id": 1,
-        "name": "John Duha",
+        "name": "Fuhad Chormunai Pir",
+        "thumbnail": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "email": "John@gardner.biz",
         "ratings": 4.5,
         "review": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
       },
       {
         "id": 2,
-        "name": "Akbor Debdash",
+        "name": "Akbor Baul Kobi",
+        "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFjZXN8ZW58MHx8MHx8&w=1000&q=80",
         "email": "Akbor@sydney.com",
-        "ratings": 4,
+        "ratings": 4.3,
         "review": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et"
       },
       {
         "id": 3,
-        "name": "Anik Moon",
+        "name": "Anik Moon Bidyasagor",
+        "thumbnail": "https://media.istockphoto.com/photos/physically-and-mentally-indestructible-picture-id1303384297?b=1&k=20&m=1303384297&s=170667a&w=0&h=McO6k51gMbzUMxAMOLX7-RVWR8Olw4e9pyMMYfDdh38=",
         "email": "Anikmoon@garfield.biz",
-        "ratings": 5,
+        "ratings": 5.0,
         "review": "quia molestiae reprehenderit quasi aspernatur\naut expedita occaecati aliquam eveniet laudantium\nomnis quibusdam delectus saepe quia accusamus maiores nam est\ncum et ducimus et vero voluptates excepturi deleniti ratione"
       },
       {
         "id": 4,
-        "name": "Ejaj Lewra",
+        "name": "Ejaj Songit Bisharod",
+        "thumbnail": "https://media.istockphoto.com/photos/portrait-of-a-girl-picture-id938707792?k=20&m=938707792&s=170667a&w=0&h=WLLitTRIHDbVCSfnYLBlkNS6avZnf_jLxPkGsY5SltU=",
         "email": "Lew@alysha.tv",
-        "ratings": 3,
+        "ratings": 3.3,
         "review": "non et atque\noccaecati deserunt quas accusantium unde odit nobis qui voluptatem\nquia voluptas consequuntur itaque dolor\net qui rerum deleniti ut occaecati"
       },
       {
         "id": 5,
         "name": "Hydra Babor",
+        "thumbnail": "https://t3.ftcdn.net/jpg/03/19/10/82/360_F_319108213_MoLZZt5WTXq6NpdG1FbCbyCtDStlSVBf.jpg",
         "email": "Hydra@babor.biz",
         "ratings": 3.5,
         "review": "harum non quasi et ratione\ntempore iure ex voluptates in ratione\nharum architecto fugit inventore cupiditate\nvoluptates magni quo et"
@@ -37,6 +42,7 @@
       {
         "id": 6,
         "name": "Chasha Abir",
+        "thumbnail": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2019/04/suprised-man.jpg",
         "email": "Presley@myrl.com",
         "ratings": 4.5,
         "review": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in"
@@ -44,20 +50,23 @@
       {
         "id": 7,
         "name": "Akash Zaman",
+        "thumbnail": "https://images.unsplash.com/photo-1599834562135-b6fc90e642ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bWFuJTIwZmFjZXxlbnwwfHwwfHw%3D&w=1000&q=80",
         "email": "akashzaman4@gmail.com",
-        "ratings": 5,
+        "ratings": 5.0,
         "review": "maiores sed dolores similique labore et inventore et\nquasi temporibus esse sunt id et\neos voluptatem aliquam\naliquid ratione corporis molestiae mollitia quia et magnam dolor"
       },
       {
         "id": 8,
-        "name": "Mallory Kunze",
+        "name": "Xamil Kella Shorif",
+        "thumbnail": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aHVtYW4lMjBmYWNlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
         "email": "Mallory_Kunze@marie.org",
-        "ratings": 2,
+        "ratings": 2.5,
         "review": "ut voluptatem corrupti velit\nad voluptatem maiores\net nisi velit vero accusamus maiores\nvoluptates quia aliquid ullam eaque"
       },
       {
         "id": 9,
         "name": "Meghan Littel",
+        "thumbnail": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aHVtYW4lMjBmYWNlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
         "email": "Meghan_Littel@rene.us",
         "ratings": 3.5,
         "review": "sapiente assumenda molestiae atque\nadipisci laborum distinctio aperiam et ab ut omnis\net occaecati aspernatur odit sit rem expedita\nquas enim ipsam minus"
@@ -65,8 +74,9 @@
       {
         "id": 10,
         "name": "Carmen Keeling",
+        "thumbnail": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aHVtYW4lMjBmYWNlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
         "email": "Carmen_Keeling@caroline.name",
-        "ratings": 2,
+        "ratings": 2.5,
         "review": "voluptate iusto quis nobis reprehenderit ipsum amet nulla\nquia quas dolores velit et non\naut quia necessitatibus\nnostrum quaerat nulla et accusamus nisi facilis"
       } 
 ]
