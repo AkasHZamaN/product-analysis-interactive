@@ -21,7 +21,7 @@ const Dashboard = () => {
     console.log(data);
   }, []);
   return (
-    <section className="flex justify-between mx-16">
+    <section className="flex justify-between mx-16 my-10">
       <article>
         <h1 className="text-center text-2xl font-semibold font-mono text-slate-500 my-10">
           Month wise Sell

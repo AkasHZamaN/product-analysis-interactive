@@ -2,7 +2,7 @@ import React from "react";
 
 const Blogs = () => {
   return (
-    <section className="mx-16">
+    <section className="mx-16 my-20">
       <h1 className="text-right font-mono text-2xl font-semibold text-slate-500 my-5">
         FAQ Environment
       </h1>
