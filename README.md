@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# Online Products Reviewer's
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was tailwind with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available script in this project:
+* Here I was created custom hooks.
+* Here I was use Destructuring.
+* Here I created own json file for reviews.
+* Here I used Routes, intall tailwind css and react heroicons etc.
 
 In the project directory, you can run:
 
